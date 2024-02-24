@@ -20,6 +20,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saaramousavi&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/saaramousavi)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saaramousavi/contributions?format=svg&private=true)  
 
 - 
