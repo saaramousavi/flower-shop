@@ -14,6 +14,10 @@
 
 - Role - Frontend
 - [![trophy](https://github-profile-trophy.vercel.app/?username=saaramousavi)](https://github.com/ryo-ma/github-profile-trophy)
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaramousavi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saaramousavi&show_icons=true&count_private=true)  
 
 
 - 
