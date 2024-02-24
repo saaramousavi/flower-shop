@@ -3,7 +3,9 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-!
+![flowershop](https://github.com/saaramousavi/flower-shop/assets/159664750/320c5587-f31e-40b0-bda5-6ac863bac5e8)
+
+
 - [Demo Project](https://saaramousavi.github.io/flower-shop/)
 
 - Developed by sara mousavi
